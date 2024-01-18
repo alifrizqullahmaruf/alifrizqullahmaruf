@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Alif Rizqullah Ma'ruf</h1> 
-<h3 align="center">Passionate web developer and data science from indonsia</h3>
+<h1 align="center">Hi 👋, I'm Alif Rizqullah Maruf</h1> 
+<h3 align="center">Passionate Web Developer and Machine Learning from indonsia</h3>
 <img src="https://komarev.com/ghpvc/?username=alifrizqullahmaruf&label=Profile%20views&color=0e75b6&style=flat" alt="alifrizqullahmaruf" align="left"/>
 
 
