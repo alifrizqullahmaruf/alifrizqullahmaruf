@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/@alif_riz_" target="blank"><img src="https://img.shields.io/twitter/follow/@alif_riz_?logo=twitter&style=for-the-badge" alt="@alif_riz_" /></a> </p>
 
-- 🌱 I’m currently learning **Kotlin, React, laravel**
+- 🌱 I’m currently learning **FLutter, React, Advance Python**
 
 - 📫 How to reach me **alifrizqullahmaruf2003@mail.ugm.ac.id**
 
