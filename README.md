@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=alifrizqullahmaruf&label=Profile%20views&color=0e75b6&style=flat" alt="alifrizqullahmaruf" /> 
 </p>
 
-- 🔭 I’m currently working on **PKBI**
+- 🔭 I’m currently working on **GaoGao**
 - 🌱 I’m currently learning **Laravel Advance, Next.js Advance, Flutter, and TensorFlow**
 - 👯 I’m looking to collaborate on **AI projects**
 - 👨‍💻 All of my projects are available at [alif-rm.my.id/AlifRiz/](https://alif-rm.my.id/AlifRiz/)
@@ -57,9 +57,20 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alifrizqullahmaruf&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=alifrizqullahmaruf&theme=holi&hide_border=false" alt="GitHub Streak" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alifrizqullahmaruf&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alifrizqullahmaruf&theme=holi" alt="Profile Details" />
+  <br/><br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alifrizqullahmaruf&theme=holi" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alifrizqullahmaruf&theme=holi" alt="Most Commit Language" />
+  <br/><br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alifrizqullahmaruf&theme=holi" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alifrizqullahmaruf&theme=holi&utcOffset=7" alt="Productive Time" />
+</p>
+<!-- <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alifrizqullahmaruf&theme=radical" alt="GitHub Profile Details" />
+  <br/><br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alifrizqullahmaruf&theme=radical" alt="Top Languages" />
   <br/><br/>
   <img src="https://streak-stats.demolab.com/?user=alifrizqullahmaruf&theme=radical" alt="GitHub Streak" />
-</p>
+</p> -->
